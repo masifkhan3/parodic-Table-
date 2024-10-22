@@ -22,7 +22,7 @@ elements = [
         "Isotopes": ["¹H (Protium, stable)", "²H (Deuterium, stable)", "³H (Tritium, radioactive)"],
         "History": "Hydrogen was discovered by Henry Cavendish in 1766. Its name comes from the Greek 'hydro' (water) and 'genes' (creator), meaning water former.",
         "Sources": "Natural sources include water and hydrocarbons."
-    }
+    },
      {
         "Atomic Number": 2,
         "Name": "Helium",
