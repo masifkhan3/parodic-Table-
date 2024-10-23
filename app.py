@@ -1,3 +1,4 @@
+!pip install streamlit
 import streamlit as st
 # Your app code
 st.title("My Periodic Table App")
