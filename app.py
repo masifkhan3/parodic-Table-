@@ -2133,7 +2133,7 @@ elements = [
         "Sources": "Produced in particle accelerators."
     }
 ]
-]
+
 
 # Function to display element information
 def display_element_info_by_name(element_name):
