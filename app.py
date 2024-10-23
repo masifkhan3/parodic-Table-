@@ -1,7 +1,7 @@
 
 import streamlit as st
 # Your app code
-st.title("My Periodic Table App")
+st.title("My Periodic Table App developed by mak3.6")
 
 # List of dictionaries containing information about each element
 elements = [
